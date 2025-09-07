@@ -1,0 +1,18 @@
+{
+  "base_dir": "C:\\Users\\sagni\\Downloads\\Med Assist",
+  "folders": [
+    "C:\\Users\\sagni\\Downloads\\Med Assist\\archive\\mturkfitbit_export_4.12.16-5.12.16\\Fitabase Data 4.12.16-5.12.16",
+    "C:\\Users\\sagni\\Downloads\\Med Assist\\archive\\mturkfitbit_export_3.12.16-4.11.16\\Fitabase Data 3.12.16-4.11.16"
+  ],
+  "include_minute_files": false,
+  "row_limit_per_csv": null,
+  "sample_frac_per_csv": 0.15,
+  "target_col": "Calories",
+  "train_rows": 38816,
+  "test_rows": 9704,
+  "input_dim": 1526,
+  "final_val_mae": 52.90349197387695,
+  "final_val_loss": 16446.4296875,
+  "sklearn_version": "1.7.1",
+  "tensorflow_version": "2.18.0"
+}
